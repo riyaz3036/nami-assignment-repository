@@ -32,7 +32,6 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 - Download the Github Repository and extract the files
 <br/>
-
 - Open the Project using VS Code.
   <br/>
 
