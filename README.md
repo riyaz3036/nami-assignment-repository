@@ -10,7 +10,7 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 ### Mobile/Tablet View
 
-<img src="readmeassets/mobile_view.png"  width="270" height="800">
+<img src="readmeassets/mobile_view.png"  width="350" height="2034">
 
 
 
