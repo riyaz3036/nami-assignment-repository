@@ -6,11 +6,11 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 ### Desktop/Laptop View
 
-<img src="ReadmeAssets/desktop_view.png" width="480" height="270">
+<img src="readmeassets/desktop_view.png" width="480" height="270">
 
 ### Mobile/Tablet View
 
-<img src="ReadmeAssets/mobile_view.png" width="480" height="270">
+<img src="readmeassets/mobile_view.png" width="480" height="270">
 
 
 
