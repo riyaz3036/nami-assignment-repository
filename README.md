@@ -14,10 +14,6 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 ##  Implementation of the Application
 
-### Brief Explaination
-
-<video src="readmeassets/explaination.mkv" width="480" height="270">
-
 <img src="readmeassets/implementation.png">
 
 
