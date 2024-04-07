@@ -1,0 +1,140 @@
+.main__content{
+    column-gap: 31px;
+    margin-left: 9px;
+    margin-right: 9px;  
+}
+
+.menu{
+    padding: 5px 0px 84px 0px;
+    height: 920px;
+    width: 224px;
+}
+
+.home__menu{
+    
+    background-color: #F0F0F0;  
+    border-bottom: 5px solid #DC5B19;
+    cursor: pointer; 
+    margin-bottom: 10px;
+    gap: 12px;
+}
+    
+.home__menu__img img{
+    width: 20px;
+    height: 17px;
+    position: absolute;
+    top: 3.2px;
+    left: 2px;
+}
+
+.home__menu h5{
+    margin:0;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+
+
+.console{
+    cursor: pointer;
+    Padding: 12px 22px 12px 6px;
+}
+
+.dropdown__arrow img{
+    width: 11.18px;
+    height: 6.59px;
+    position: absolute;
+    top: 8.71px;
+    left: 6.41px;
+}
+
+.console__b{
+    width:162px;
+}
+
+
+
+.console__b h5{
+   margin:0;
+   font-size: 16px;
+   line-height: 20px;
+   font-weight: 600;
+}
+
+.console__img img{
+    width: 18px;
+    height: 14px;
+    position: absolute;
+    top: 5px;
+    left: 3px;
+}
+
+.console__dropdown_option{
+    width: 224px;
+    cursor: pointer;
+}
+
+.console__dropdown_option h5{
+   margin:0;
+   font-size: 16px;
+   line-height: 20px;
+   font-weight: 600;
+}
+
+.attend__img{
+    width: 18px;
+    height: 20px;
+    position: absolute;
+    top: 2px;
+    left: 3px;
+}
+
+.over__img{
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    top: 1.91px;
+}
+
+.staff__img{
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+}
+
+.tasks__title h5{
+margin:0;
+font-size: 24px;
+font-weight: 600;
+line-height: 30px;
+}
+
+
+
+
+@media (max-width: 600px){
+
+    .menu,.tasks__title,.filters{
+        display: none;
+    }
+    
+    .tasks{
+        display: block; 
+        justify-content: center;
+        width: 100%; 
+    }
+
+    .tasks__main{
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .ongoing__tasks, .scheduled__tasks, .task__history {
+        align-items: center;
+        gap: 16px;
+    }
+}

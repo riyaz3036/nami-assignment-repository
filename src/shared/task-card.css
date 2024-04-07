@@ -1,0 +1,287 @@
+.task__card{
+    border: 0.5px solid #B8B8B8;
+    width: 360px;
+}
+
+/* TAG type A */
+
+.tag__a{
+    padding: 4px 8px 4px 8px;
+    border-radius: 20px;
+    display:flex;
+    align-items: center;
+  }
+  
+  .tag__a h5{
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+  }
+
+/* TAG type B */
+.tag__b{
+    background-color: #F7F7F7;
+    padding: 2px 4px 2px 4px;
+    border-radius: 20px;
+    
+}
+
+.tag__b__img{
+    width: 16px;
+    height: 16px;
+    padding: 0.67px; 
+    display: flex;
+    justify-content: center; 
+}
+
+.tag__b__img img{
+    width: 14.67px;
+    height: 14.67px;
+}
+
+/* Task Card Top */
+.staff__member{
+    background-color: #F7F7F7;
+    gap:5px;
+}
+
+.staff__member h5{
+   font-size: 12px;
+   line-height: 15px;
+}
+
+.staff__member__img{
+    background-color: #FFFFFF;
+}
+
+ .staff__member__img img{
+    background-color: #FFFFFF;
+    top:2px;
+    left:1.98px;
+} 
+
+.red__dot{
+    background-color: #CC2610;
+}
+
+.time__{
+    border-radius: 20px;
+}
+
+.time__img img{
+  position:absolute;
+  top: 1.33px;
+  left: 1.33px;
+  width: 13.33px;
+  height:13.33px;
+}
+
+.time__ p{
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.07px;
+}
+
+.rating__{
+    border-radius: 20px;
+}
+
+.rating__img img{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top:1px;
+    left:1px;
+}
+
+.rating__ p{
+    margin:0; 
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px; 
+}
+
+/* Task Card title section */
+.task__card__title h4{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+
+/* Task Card Date and Time section */
+.date__time{
+    gap: 5px;
+}
+
+.date__time_img img{
+    color: #767676; 
+    position: absolute;
+    left: 2px;
+    top: 1.33px;
+    width: 12px;
+    height: 13.33px; 
+    
+}
+
+.date__time p{
+    margin: 0;
+    color: #767676;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+}
+
+.id__{
+    color: #767676;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    line-height: 14.63px;
+}
+
+
+/* Task Card From,To section */
+.task__card__names p{
+    margin: 0;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    color: #767676;
+}
+
+/* Service/item section */
+.service__item__list{
+    background-color: #F7F7F7;
+}
+
+.service__ p{
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.63px;  
+}
+
+
+.service__instruction{
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.63px;
+}
+
+.service__instruction span{
+  color: #5F69C7;
+}
+ 
+ .item__ p{
+     margin:0;
+     font-family: "Montserrat", sans-serif;
+     font-size: 12px;
+     font-weight: 700;
+     line-height: 14.63px;  
+ }
+
+ .item__count{
+    color: #5D5E60;
+    margin:0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.63px;  
+    
+ }
+ 
+ 
+ .item__instruction{
+    color: #5F69C7;
+     margin:0;
+     font-family: "Montserrat", sans-serif;
+     font-size: 12px;
+     font-weight: 500;
+     line-height: 14.63px;
+ }
+
+
+/* Notify Staff section */
+.notify__staff{
+  border-radius: 20px;
+  border: none;
+}
+
+.notify__staff h5{
+    margin: 0;
+    color:#FFECE2;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+}
+
+.notify__img img{
+    width: 16.67px;
+    height: 16.67px;
+    position: absolute;
+    top: 1.67px;
+    left: 1.67px; 
+}
+
+/* View Details section */
+.view__details{
+    background-color: #fff;
+    border: 1px solid #5F69C7;
+    border-radius: 20px;
+}
+
+.view__details h5{
+margin: 0;
+color: #5F69C7;
+font-size: 12px;
+font-weight: 500;
+line-height: 15px;
+}
+
+
+@media (max-width: 600px){
+    .task__card{        
+        width: 335px;
+    }
+
+    .tag__a{
+        padding: 0px 4px 0px 4px ;
+        border-radius: 20px;
+        height:20px;
+    }
+      
+    .tag__a h5{
+        font-size: 10px;
+        line-height: 12.19px;
+    }
+       
+    .time__ p{
+        font-size: 10px;
+        line-height: 12.19px;
+    }
+    
+    .task__card__title h4{
+        font-size: 12px;
+        font-weight: 600;
+        line-height: 15px;
+    }
+
+    .date__time p{
+        font-size: 10px;
+        line-height: 12.19px;
+    }
+    
+    .id__{
+        font-size: 10px;    
+        line-height: 12.19px;
+    }
+}
