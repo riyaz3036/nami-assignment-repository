@@ -12,7 +12,7 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 <img src="readmeassets/mobile_view.png"  width="262" height="1525">
 
-### Implementation of the Application
+##  Implementation of the Application
 
 <img src="readmeassets/implementation.png">
 
