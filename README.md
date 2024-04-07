@@ -30,7 +30,6 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 - Download [Node Js and npm(Node package manager)](https://nodejs.org/en/) (when you install Node, npm also gets installed by default)
   <br/>
 
-
 - Download the Github Repository and extract the files
 <br/>
 
@@ -45,18 +44,6 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 ```
 npm install
 ```
-
-<br/>
-
-- Now, run command `cd server`.
-  <br/>
-
-- Run this command to install all dependencies for the backend of this project.
-
-```
-npm install
-```
-
 <br/>
 
 - Run this command to start the project.
