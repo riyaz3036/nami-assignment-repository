@@ -43,7 +43,7 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 - Open a new terminal.
   <br/>
 
-- Run this command to install all dependencies for the frontend of this project.
+- Run this command to install all dependencies for the project.
 
 ```
 npm install
