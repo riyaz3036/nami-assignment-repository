@@ -24,9 +24,6 @@ Visit the website at: https://nami-assignment-repository.vercel.app
 
 ## Environment Setup for local use-
 
-- Download [Git](https://git-scm.com/downloads) (when you install Git, Git Bash also gets installed by default)
-  <br/>
-
 - Download and install a code/ text editor. - Recommended- - [Download VS Code](https://code.visualstudio.com/download)
   <br/>
 
